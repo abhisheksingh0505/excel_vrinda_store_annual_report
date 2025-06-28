@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dashboard Preview](d4f64dc0-ac6d-43c5-a511-270eb3fc3145.png)
+![Dashboard Preview](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ)
 
 **🚀 A comprehensive Excel-based business intelligence dashboard analyzing e-commerce performance**
 
@@ -10,7 +10,7 @@
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)](.)
 [![Data Analysis](https://img.shields.io/badge/Analysis-Business%20Intelligence-orange?style=for-the-badge)](.)
 
-[📥 Download Dashboard](#-quick-start) | [📋 View Demo](#-key-insights) | [🤝 Contribute](#-connect--contribute)
+[📥 Download Dashboard](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ#-quick-start) | [📋 View Demo](#-key-insights) | [🤝 Contribute](#-connect--contribute)
 
 </div>
 
@@ -38,7 +38,7 @@ This data-driven Excel dashboard provides **360-degree business insights** for V
 ### Installation
 1. **Clone or Download** this repository
    ```bash
-   git clone [your-repo-url]
+   git clone [https://github.com/abhisheksingh0505/excel_vrinda_store_annual_report]
    ```
 2. **Open** `Vrinda Store Data Analysis (1).xlsx`
 3. **Enable macros** if prompted
@@ -201,7 +201,7 @@ After exploring this dashboard, you'll understand:
 
 **Created by Abhishek Singh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-https://www.linkedin.com/in/abhishek-singh-139181279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-www.linkedin.com/in/abhishek-singh-139181279)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-singh050530@gmail.com)
 
 
