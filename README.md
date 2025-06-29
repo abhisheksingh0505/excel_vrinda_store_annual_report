@@ -200,7 +200,7 @@ After exploring this dashboard, you'll understand:
 
 **Created by Abhishek Singh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-www.linkedin.com/in/abhishek-singh-139181279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-https://www.linkedin.com/posts/abhishek-singh-139181279_exceldashboard-dataanalytics-ecommerceanalysis-activity-7344877476528947200-1Kc9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPVq30Bq2sEwcd3P4rrPSdROqgKGlaBA58)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-singh050530@gmail.com)
 
 
