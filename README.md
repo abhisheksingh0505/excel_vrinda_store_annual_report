@@ -198,8 +198,8 @@ After exploring this dashboard, you'll understand:
 
 **Created by Abhishek Singh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-https://www.linkedin.com/posts/abhishek-singh-139181279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-singh050530@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abhishek-singh-139181279)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](singh050530@gmail.com)
 
 
 **⭐ Star this repo if you found it helpful!**
