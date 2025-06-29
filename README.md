@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dashboard Preview](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ)
+![Dashboard Preview](https://github.com/abhisheksingh0505/excel_vrinda_store_annual_report/blob/main/vrinda%20store.png.)
 
 **🚀 A comprehensive Excel-based business intelligence dashboard analyzing e-commerce performance**
 
@@ -153,7 +153,6 @@ Teen Men    (8.41%)  █████████▌
 ├── 📊 Vrinda Store Data Analysis (1).xlsx    # Main dashboard file
 ├── 🖼️ d4f64dc0-ac6d-43c5-a511-270eb3fc3145.png    # Dashboard preview
 ├── 📝 README.md                               # This documentation
-└── 📋 data-dictionary.md                      # Field definitions (optional)
 ```
 
 ---
