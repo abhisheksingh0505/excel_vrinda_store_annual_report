@@ -8,7 +8,7 @@
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)](.)
 [![Data Analysis](https://img.shields.io/badge/Analysis-Business%20Intelligence-orange?style=for-the-badge)](.)
 
-[📥 Download Dashboard](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ#-quick-start) |  
+[📥 Download Dashboard](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ#-quick-start) |  [🤝 Contribute](#-connect--contribute) |
 
 </div>
 
