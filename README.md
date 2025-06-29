@@ -8,7 +8,7 @@
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)](.)
 [![Data Analysis](https://img.shields.io/badge/Analysis-Business%20Intelligence-orange?style=for-the-badge)](.)
 
-[📥 Download Dashboard](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ#-quick-start) |  [🤝 Contribute](#-connect--contribute)
+[📥 Download Dashboard](https://drive.google.com/drive/u/0/folders/1zL2G5kPkw_Ou0R3vyW4tclA5W3nkR1QJ#-quick-start) |  🤝 Contribute](#-connect--contribute)|
 
 </div>
 
@@ -198,8 +198,8 @@ After exploring this dashboard, you'll understand:
 
 **Created by Abhishek Singh**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abhishek-singh-139181279)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](singh050530@gmail.com)
+[![LinkedIn](https://www.linkedin.com/posts/abhishek-singh-139181279)
+[![Email](singh050530@gmail.com)
 
 
 **⭐ Star this repo if you found it helpful!**
